@@ -38,6 +38,7 @@ function App() {
       </select>
 
       <label>Resultado {resultado}</label>
+      <h4>Feito por Fulano</h4>
     </div>
   );
 }
